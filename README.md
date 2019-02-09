@@ -117,10 +117,12 @@ Step1で求めた解 `X` と a0 から b0>=8, c0>=8 のときの解を探索す�
 
 # 結果
 
-[選手P0の順位でソートした結果](./results_sorted_by_a0_b0_c0)
-[選手P0の総合ptでソートした結果](./results_sorted_by_t0)
+- [選手P0の順位でソートした結果](./results_sorted_by_a0_b0_c0)
+- [選手P0の総合ptでソートした結果](./results_sorted_by_t0)
 
-- 読み方
+<br>
+
+- 結果ファイルの読み方
   - inserted_at: 上記の解法で、どのstepによって求められたのか
   - min_max_ti: 「選手P1\~P6の総合ptの最大値」の最小値
   - must_go_final: 選手P0は"絶対に"予選突破できるか
