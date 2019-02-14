@@ -109,7 +109,7 @@
 {"p0":[1,5,7],"t0":35,"ranks":[[2,4,5],[3,6,2],[4,3,3],[5,2,4],[6,7,1],[7,1,6]],"min_max_ti":42,"must_go_final":true,"inserted_at":"step1"}
 {"p0":[1,5,8],"t0":40,"ranks":[[2,4,5],[3,6,2],[4,3,3],[5,2,4],[6,7,1],[7,1,6]],"min_max_ti":42,"must_go_final":true,"inserted_at":"step2"}
 {"p0":[1,6,6],"t0":36,"ranks":[[2,3,7],[3,4,3],[4,5,2],[5,2,4],[6,7,1],[7,1,5]],"min_max_ti":42,"must_go_final":true,"inserted_at":"step1"}
-{"p0":[1,6,7],"t0":42,"ranks":[[2,3,6],[3,4,3],[4,5,2],[5,2,4],[6,7,1],[7,1,5]],"min_max_ti":42,"must_go_final":false,"inserted_at":"step1"}
+{"p0":[1,6,7],"t0":42,"ranks":[[2,3,6],[3,4,3],[4,5,2],[5,2,4],[6,7,1],[7,1,5]],"min_max_ti":42,"must_go_final":true,"inserted_at":"step1"}
 {"p0":[1,7,7],"t0":49,"ranks":[[2,3,6],[3,4,3],[4,5,2],[5,2,4],[6,6,1],[7,1,5]],"min_max_ti":40,"must_go_final":false,"inserted_at":"step1"}
 {"p0":[2,2,2],"t0":8,"ranks":[[1,6,7],[3,4,5],[4,5,3],[5,3,4],[6,1,6],[7,7,1]],"min_max_ti":60,"must_go_final":true,"inserted_at":"step1"}
 {"p0":[2,2,3],"t0":12,"ranks":[[1,4,7],[3,5,4],[4,3,5],[5,6,2],[6,1,6],[7,7,1]],"min_max_ti":60,"must_go_final":true,"inserted_at":"step1"}
@@ -126,7 +126,7 @@
 {"p0":[2,3,4],"t0":24,"ranks":[[1,6,7],[3,5,3],[4,2,5],[5,4,2],[6,7,1],[7,1,6]],"min_max_ti":45,"must_go_final":true,"inserted_at":"step1"}
 {"p0":[2,3,5],"t0":30,"ranks":[[1,6,7],[3,4,3],[4,5,2],[5,2,4],[6,7,1],[7,1,6]],"min_max_ti":42,"must_go_final":true,"inserted_at":"step1"}
 {"p0":[2,3,6],"t0":36,"ranks":[[1,6,7],[3,4,3],[4,5,2],[5,2,4],[6,7,1],[7,1,5]],"min_max_ti":42,"must_go_final":true,"inserted_at":"step1"}
-{"p0":[2,3,7],"t0":42,"ranks":[[1,6,6],[3,4,3],[4,5,2],[5,2,4],[6,7,1],[7,1,5]],"min_max_ti":42,"must_go_final":false,"inserted_at":"step1"}
+{"p0":[2,3,7],"t0":42,"ranks":[[1,6,6],[3,4,3],[4,5,2],[5,2,4],[6,7,1],[7,1,5]],"min_max_ti":42,"must_go_final":true,"inserted_at":"step1"}
 {"p0":[2,4,4],"t0":32,"ranks":[[1,5,7],[3,6,2],[4,2,5],[5,3,3],[6,7,1],[7,1,6]],"min_max_ti":45,"must_go_final":true,"inserted_at":"step1"}
 {"p0":[2,4,5],"t0":40,"ranks":[[1,5,7],[3,6,2],[4,3,3],[5,2,4],[6,7,1],[7,1,6]],"min_max_ti":42,"must_go_final":true,"inserted_at":"step1"}
 {"p0":[2,4,6],"t0":48,"ranks":[[1,5,7],[3,6,2],[4,3,3],[5,2,4],[6,7,1],[7,1,5]],"min_max_ti":42,"must_go_final":false,"inserted_at":"step1"}

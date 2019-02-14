@@ -60,7 +60,7 @@ function min_max_abc_in_all_b_and_c(n, a0, b0, c0, array_n, array_n_plus_1)
     a0 * b0 * c0,
     ranks,
     min_max_ti,
-    a0 * b0 * c0 < min_max_ti,
+    a0 * b0 * c0 <= min_max_ti,
     "step1"
   )
 end
